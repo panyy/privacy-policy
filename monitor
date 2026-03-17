@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <title>隐私权政策</title>
+</head>
+<body>
+<h1>隐私权政策</h1>
+<p>感谢您使用“监控助手”App。本隐私权政策说明我们如何使用您的信息以及保护隐私。</p>
+<h2>收集的信息</h2>
+<p>本 App 仅使用摄像头权限 (android.permission.CAMERA) 来检测运动，不会上传数据。</p>
+<h2>使用与安全</h2>
+<p>数据仅在本地设备处理，App 不分享给第三方。</p>
+<h2>联系我们</h2>
+<p>邮箱：416849838@qq.com</p>
+</body>
+</html>
